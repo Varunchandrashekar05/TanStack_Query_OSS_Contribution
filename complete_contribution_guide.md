@@ -1,7 +1,7 @@
 # Complete TanStack Query OSS Contribution Guide
 ## From Fork to Merged PR - A Detailed Journey
 
-**Author:** VARUN C
+**Author:**VARUN C
 **Project:** TanStack Query  
 **Period:** October - November 2025  
 **Total Contributions:** 3 Merged Pull Requests
